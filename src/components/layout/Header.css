@@ -1,0 +1,27 @@
+
+.navbar {
+  background-color: #002348;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+.Nav.Link {
+  position: absolute;
+  right: 100px; 
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.custom-nav-link {
+  margin: 0; 
+  padding: 0;
+  position: absolute;
+  right: 160px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.custom-nav-link img{
+    margin-right:0px;
+}
